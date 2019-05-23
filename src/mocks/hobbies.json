@@ -1,0 +1,32 @@
+{
+  "get": {
+    "1": [
+      {
+        "id": 1,
+        "passionLevel": 0,
+        "text": "This is my hobby",
+        "year": 2017
+      },
+      {
+        "id": 2,
+        "passionLevel": 1,
+        "text": "This is my hobby 2",
+        "year": 2010
+      }
+    ],
+    "2": [
+      {
+        "id": 3,
+        "passionLevel": 2,
+        "text": "This is hobby of another user ",
+        "year": 2017
+      },
+      {
+        "id": 4,
+        "passionLevel": 3,
+        "text": "This is one more hobby",
+        "year": 2016
+      }
+    ]
+  }
+}
